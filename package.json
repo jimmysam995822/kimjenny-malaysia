@@ -1,0 +1,13 @@
+{
+  "name": "kimjenny-malaysia",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.0.0",
+    "lucide-react": "^0.263.1"
+  },
+  "scripts": {
+    "build": "react-scripts build"
+  }
+}
