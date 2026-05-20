@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://shopee.com.my/kimjenny.my?entryPoint=ShopBySearch&searchKeyword=kimjenny%20bedding%20%26living">
+</head>
+<body>
+    <p>正在跳转至 KimJenny 官方旗舰店...</p>
+</body>
+</html>
