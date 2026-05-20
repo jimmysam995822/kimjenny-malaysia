@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>KimJenny Malaysia</title>
+    <meta http-equiv="refresh" content="0; url=https://shopee.com.my/kimjenny.my">
+</head>
+<body>
+    <p>正在跳转至 KimJenny 官方旗舰店...</p>
+</body>
+</html>
